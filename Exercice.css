@@ -1,0 +1,96 @@
+body
+{
+background-image: url("back.png");
+}
+
+
+header{
+height: 5vh;
+color: white;
+padding: 1 %;
+background-color: #C55394;
+}
+nav
+{
+display: inline-block;
+width: 740px;
+text-align: right;
+}
+nav ul
+{
+list-style-type: none;
+}
+nav li
+{
+display: inline-block;
+margin-right: 15px;
+}
+nav a
+{
+font-size: 1.3em;
+color: #181818;
+padding-bottom: 3px;
+text-decoration: none;
+}
+nav a:hover
+{
+color: #760001;
+border-bottom: 3px solid #760001;
+}
+
+
+button { display : inline;}
+{
+text-align: right;
+}
+
+figure {
+display: inline;
+}
+element
+{
+position: absolute;
+right: 0px;
+bottom: 0px;
+}
+
+
+             h1
+{
+color: pink;
+}
+             h2
+{
+color: pink;
+}
+
+ { display : inline;}
+
+
+             h3
+{
+color: pink;
+}
+ 
+ h4
+{
+color: pink;
+}
+
+ h5
+{
+color: pink;
+}
+
+
+body
+
+
+  { display : inline;}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
